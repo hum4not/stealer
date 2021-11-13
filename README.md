@@ -12,4 +12,4 @@
 ![Servers](https://media.discordapp.net/attachments/903983463697371197/909047833007640586/unknown.png)
 # Credits
 Main developer - **humanot** (https://github.com/hum4not)  
-Find-Token part developer - **kaJob** (https://github.com/kaJob-dev)
+Find-Token part developer - **this guy wanted me to remove his name** (NO URL)
