@@ -11,3 +11,7 @@
 ![Main Details](https://media.discordapp.net/attachments/903983463697371197/909047484758765578/4de0e170d26751e2.PNG)
 
 ![Servers](https://media.discordapp.net/attachments/903983463697371197/909047833007640586/unknown.png)
+# Credits
+Main developer - **humanot** (https://github.com/hum4not)
+
+Find-Token part developer - **kaJob** (https://github.com/kaJob-dev)
